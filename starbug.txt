@@ -1,1 +1,2 @@
 star1
+star2
